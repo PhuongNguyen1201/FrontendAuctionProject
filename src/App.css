@@ -1,0 +1,14 @@
+@tailwind base;
+
+@layer base{
+    body{
+        @apply font-poppins;
+        @apply text-white;
+     
+    }
+  
+}
+
+.Toastify__toast-container--top-right {
+    top: 5rem !important;
+  }
